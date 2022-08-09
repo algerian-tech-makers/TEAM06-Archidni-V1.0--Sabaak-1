@@ -1,0 +1,73 @@
+name: archdni
+description: A new Flutter project.
+
+ 
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.6 <3.0.0" 
+ 
+dependencies:
+  flutter:
+    sdk: flutter
+
+ 
+  cupertino_icons: ^1.0.2
+  firebase_messaging: ^12.0.1
+  image_picker: ^0.8.5+3
+  get: ^4.6.5
+  ionicons: ^0.2.1
+  flutter_otp_text_field: ^1.0.1
+  cloud_firestore: ^3.4.2
+  cached_network_image: ^3.2.1 
+  latlng: ^0.2.0
+  backdrop: ^0.8.0
+  sliding_up_panel: ^2.0.0+1
+  flutter_map_marker_cluster: ^0.5.0
+  geolocator: ^7.7.1
+   
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^2.0.0
+  
+  # Images
+  # Animate
+  show_up_animation: ^2.0.0
+  auto_animated: ^3.0.1
+  # Google Map
+  
+   
+  # Firebase And Notification 
+  firebase_core: ^1.12.0
+  flutter_local_notifications: ^9.5.3+1
+  # Local Data Cache
+   
+  shared_preferences: ^2.0.15
+  path: ^1.8.0
+  # Qrcode 
+   
+  # Icon 
+  # flutter_svg: ^1.0.3
+  font_awesome_flutter: ^10.1.0
+  fluttericon: ^2.0.0
+  dartz: ^0.10.1
+  # Google Auth
+  
+
+
+flutter:
+
+  uses-material-design: true
+  assets:
+    - assets/images/
+ 
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins/Poppins-Regular.ttf
+        - asset: assets/fonts/Poppins/Poppins-Bold.ttf
+          weight: 700

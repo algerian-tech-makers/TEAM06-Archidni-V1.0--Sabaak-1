@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "35120996909",
+    "project_id": "archdni",
+    "storage_bucket": "archdni.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35120996909:android:22cc0716dba1e240778ea4",
+        "android_client_info": {
+          "package_name": "com.example.archdni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35120996909-pge0n3hms66pg17k9pqs290u280gsgg9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOZDMjqeX4YzTvnWAmygPMwcLN5aD3JyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35120996909-pge0n3hms66pg17k9pqs290u280gsgg9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
