@@ -1,31 +1,22 @@
-# Sabaak Initiative 💻
+## مشروع مفقود
 
-## What is that ❓
-- It is a programming hackathon that will work on a group of mini-projects under the supervision of seniors in the technical field for follow-up and guidance 💪
+ المشروع مُوجّه للصّالح العام من خلال مساعدة عوائل المفقودين في ايجاد مفقودهم، سواء بالتّبليغ عنه أو المساعدة في تحديد مكانه.
 
-## What for 💡
-This initiative is a step toward uniting Muslim programmers from around the world to uphold their faith, make a difference in their societies and reject discrimination and the values imposed by the west through technology.
+## أهم تحديات المشروع: 
+- الابلاغ عن وجود مفقودين مع تحرّي الابلاغات الوهمية
+- التعرف على المفقودين فب حال عدم وجود الهوية
+- نشر المفقودين مع كامل المعلومات و الحالة الشخصية له 
+- نشر اخر تواجد له في منطقة 
 
-## How to contribute 🤝
-- If you have already registered for the initiative , then you can safely skip to **Project Submission**
-- If you didn't register yet, it's not late to do that. You can submit your registration through [this form](forms.google.com)
+## كيف تساهم في تطوير المشروع : 
+- قم برفع المشروع و ملاحظة مدى التقدم 
+- تواصل معنا عبر صفحتنا او عبر الايمايل الخاص بنا للإستفسار  
+- قم بتطوير الحلول الخاص بك و إرسالها لنا ليتم مراجعتها و تطبيقها 
+## سؤال و جواب : 
 
-## Project Submission 📋
-- In order to submit your Draft / Final solution , you will need to meet certain conditions :
-1. The project title must contain the team name + the project name.
-2. Only the team leader can submit the solution on behalf of his team members.
-3. You can submit the solution only once, no duplicates are allowed.
-4. The deadline must be respected , any late submissions won't be accepted.
-
-### How to submit ?
-1. Clone this repository.
-2. Create a new folder wih with the desired team name under the `Projects` directory.
-3. Add your solution .
-4. Create a pull request.
-5. Our responsible will review your submission for any issues.
-6. If your submission meets the conditions, the pull request will be merged and reviewd by our Jury.
-
-## Reach out to us 📝
-- If you still have any questions , you can reach out to us through [The Algerian Tech Makers Page](https://www.facebook.com/Algeriantechmakersdz2021)
-
-### Happy Hacking ^_^
+# هل يمكنني التغيير في الكود القديم 
+نعم 
+# هل يمكنني البداية في المشروع من جديد
+نعم يمكنك ذلك 
+# هل استطيع ان اضع حلول جديدة و اطور في المشروع اكثر من المطلوب 
+بالتأكيد نعم و يمكنك التواصل معنا لمساعدتك في دراسة الحلول المقترحة منك 
